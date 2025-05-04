@@ -1,4 +1,3 @@
 # delta-demo
 Demo File
-this is first add
-commoy
+this is first add.
